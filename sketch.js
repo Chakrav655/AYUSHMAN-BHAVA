@@ -1,6 +1,6 @@
 /*
 Hey There!
-My app "PRAAN DATHA" provides a platform for people to become a FirstResponder. It will have 
+My app "AYUSHMAN BHAVA" provides a platform for people to become a FirstResponder. It will have 
 interactive Augmented Reality Tutorials and also a Live Procedure incase of a real emergency.
 
 Make sure that you fill the UserInfo*****
